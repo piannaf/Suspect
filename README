@@ -1,0 +1,12 @@
+Justin Mancinelli
+
+Assignment 3 for COMP2303 at the University of Queensland
+
+Description:
+    Checks the behaviour of other programs and status of files.
+    Read the design specification to see valid commands
+
+Files:
+    COMP2303_2010_Assignment3.pdf -- Design specification
+    suspect.c -- Source
+    Makefile -- For making the executable from source
